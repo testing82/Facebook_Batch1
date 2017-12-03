@@ -8,6 +8,7 @@ public class FbLogin {
 		
  ChromeDriver driver=new ChromeDriver();
  driver.get("welcome to maven project");
+ System.out.println("Open App");
 	}
 
 }
