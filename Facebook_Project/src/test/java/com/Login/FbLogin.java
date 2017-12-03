@@ -7,7 +7,7 @@ public class FbLogin {
 	public static void main(String[] args) {
 		
  ChromeDriver driver=new ChromeDriver();
- driver.get("welcome to maven project");
+ driver.get("https://mvnrepository.com/");
 	}
 
 }
